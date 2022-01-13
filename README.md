@@ -22,3 +22,10 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 安装bootstrap
+
+```
+yarn add vue bootstrap bootstrap-vue
+```
