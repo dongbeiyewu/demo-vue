@@ -29,3 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 yarn add vue bootstrap bootstrap-vue
 ```
+### 安装vuelidate
+```
+npm install vuelidate --save
+```
